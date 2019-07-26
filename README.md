@@ -1,3 +1,5 @@
+initial commit
+
 # Sprint Challenge: Data Structures
 
 In this week's Sprint you implemented some classic and fundamental data structures and learned about how to go about evaluating their respective runtimes and performance. This Sprint Challenge aims to assess your comfort with these topics through exercises that build on the data structures you implemented and the algorithmic intuition you've started to build up.
@@ -72,7 +74,6 @@ Open up the `Data_Structures_Answers.md` file. This is where you'll jot down you
 
 1. Say your code from `names.py` is to run on an embedded computer with very limited RAM. Because of this, memory is extremely constrained and you are only allowed to store names in arrays (i.e. Python lists). How would you go about optimizing the code under these conditions? Try it out and compare your solution to the original runtime. (If this solution is less efficient than your original solution, include both and label the strech solution with a comment)
 
-
 ### Rubric
 
 #### Ring Buffer
@@ -92,9 +93,8 @@ Open up the `Data_Structures_Answers.md` file. This is where you'll jot down you
 
 - `names.py` is optimized with sub-quadratic runtime complexity and tightly constrained linear space complexity: 4 points
 
-
 #### Grading
 
-* *3*: 28+
-* *2*: 20-27
-* *1*: 0-19
+- _3_: 28+
+- _2_: 20-27
+- _1_: 0-19
